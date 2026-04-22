@@ -5,9 +5,15 @@ The Project contains the following processes to achieve the accuracy:
 2. Image pre-processing
 
 3. Normalizing the images
-Class Distribution
-Spliting training and testing dataset
-Convert categorical label to numerical label
-Model building with mobilenetv2 model
-Performance metrics
-Predicting Viral infection on unseen chest xray
+
+4. Class Distribution
+
+5. Spliting training and testing dataset
+
+6. Convert categorical label to numerical label
+
+7. Model building with mobilenetv2 model
+
+8. Performance metrics
+
+9. Predicting Viral infection on unseen chest xray
