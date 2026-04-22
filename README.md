@@ -17,3 +17,5 @@ The Project contains the following processes to achieve the accuracy:
 8. Performance metrics
 
 9. Predicting Viral infection on unseen chest xray
+
+NOTE : DATASET IS COLLECTED FROM KAGGLE - https://www.kaggle.com/datasets/pritpal2873/chest-x-ray-dataset-4-categories
